@@ -1,0 +1,42 @@
+
+   [
+         {
+             "studentname":"krishnathakur",
+      
+              "schoolname":"Wrangle Hill Auto Auct & Slvg",
+
+             "address":"7457 Cowl St #70",
+
+             "city":"Bargate Ward",
+
+             "country":"England",
+
+            "postal":"DN36 5RP",
+
+            "phone":"01590-982428",
+
+            "email":"laquita@yahoo.com",
+
+            "doj":"2021-10-20"
+         },
+        {
+           "studentname":"krish",
+      
+           "schoolname":"Wrangle Hill Auto Auct",
+
+           "address":"7457 Cowl St",
+
+           "city":"Bargate War",
+
+           "country":"Eng",
+
+           "postal":"DN36",
+
+           "phone":"01590-982427",
+
+            "email":"laquita@google.com",
+
+            "doj":"2021-10-21"
+
+        }
+  ]
